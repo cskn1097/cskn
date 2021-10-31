@@ -10,10 +10,10 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cskn1097/fraud_detection)
 
-<center><img src="images/Fraud-Detection.png"/></center>
+<center><img src="images/Fraud-Detection.jpg"/></center>
 
 ### EDA
 
 EDA on Maharastra School education
 
-###contact for more details
+### contact for more details
