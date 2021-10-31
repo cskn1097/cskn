@@ -1,6 +1,18 @@
-title: Minimal theme
+title: Chandrasekaran aka CSKN
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/cskn/">LinkedIn</a> |
+  <a href="https://github.com/cskn1097">GitHub</a>
+ 
+  <br>   
+  T am currently pursuing MS in Machine Learning and Artificial Intelligence.
+  Working in Software domain for past 3.5 Years
+  <br>
+  </p>
+  
+  
+  
+  
 theme: jekyll-theme-minimal
