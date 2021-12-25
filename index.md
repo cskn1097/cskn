@@ -10,14 +10,14 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 -Which variables are significant in predicting the demand for shared bikes.
 -How well those variables describe the bike demands
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cskn1097/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cskn1097/bike_sharing_assignment)
 
 <center><img src="assets/img/lr.jpg"/></center>
 
 ## Logistic Regression on Telecom Churn
 You will be looking at the telecom churn prediction. The variables related to customer behaviour (such as the monthly bill, internet usage etc.) to predict whether a particular customer will switch to another telecom provider or not (i.e. churn or not).
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cskn1097/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cskn1097/telecom)
 
 <center><img src="assets/img/log.jpg"/></center>
 
