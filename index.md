@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Projects and Case syudies executed for Masters program
+Projects and Case studies executed for Masters program
 
 # Machine learning
 
